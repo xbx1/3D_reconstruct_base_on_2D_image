@@ -32,7 +32,9 @@ black: !!opencv-matrix # color of black grid of chessboard point cloud, in range
 # result
 ## point cloud from lidar
 <img src="https://github.com/xbx1/github_display_files/blob/main/3dconstruct/original%20cloud.png"/>
+
 ## reconstruct result
 <img src="https://github.com/xbx1/github_display_files/blob/main/3dconstruct/reconstruct_result.png"/>
+
 ## ICP result
 <img src="https://github.com/xbx1/github_display_files/blob/main/3dconstruct/ICP_result.png"/>
