@@ -7,7 +7,7 @@ This reposity constructs 3D point cloud based on 2D images containing chessboard
 In this step, you should get more than 10 images containing single chessboard and 1 image which you want to reconstruct 3D based on.
 The above 10 images should be put in folder named [images](https://github.com/xbx1/3D_reconstruct_base_on_2D_image/tree/main/images), and notice that the naming regulation should be like the example. The target image which you want to reconstruct should be put in [taget_image folder](https://github.com/xbx1/3D_reconstruct_base_on_2D_image/tree/main/target_image).
 ## rewrite config files
-There are two congig files in folder [config](https://github.com/xbx1/3D_reconstruct_base_on_2D_image/tree/main/config).
+There are two config files in folder [config](https://github.com/xbx1/3D_reconstruct_base_on_2D_image/tree/main/config).
 ### camera.xml
 Containing camera intrinsic.
 ### target.yaml
